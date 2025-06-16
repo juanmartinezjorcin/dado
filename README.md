@@ -1,0 +1,2 @@
+# dado
+dado aleatorio
